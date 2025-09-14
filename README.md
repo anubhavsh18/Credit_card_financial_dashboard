@@ -7,6 +7,7 @@ This project showcases an interactive Power BI dashboard built using a customer-
 
 **🎯 Objectives
 **
+
 The primary objective of this project was to build a comprehensive reporting solution that not only presents high-level KPIs but also allows deeper exploration of customer segments and transaction patterns. The focus was on designing an intuitive interface that highlights trends, comparisons, and customer attributes in a clear, professional manner.
 
 **📊 Dashboard Features**
@@ -25,6 +26,7 @@ Visuals Used: KPI cards, bar charts, line charts, treemaps, and slicers for inte
 
 **🛠️ Tools & Techniques
 **
+
 Power BI for dashboard creation and interactivity
 
 Power Query for data cleaning and transformation
